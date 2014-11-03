@@ -26,7 +26,7 @@ import qualified Data.Conduit as C
 import qualified Data.ByteString as S
 import qualified Data.ByteString.Lazy as L
 
-import Data.Time.Clock
+import Data.Time
 import Data.Default
 import qualified Data.List as DL
 
